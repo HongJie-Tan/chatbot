@@ -30,7 +30,7 @@ Scroll down to Export and Import.
 
 Click "Import from ZIP".
 
-Choose the provided file: bookstore-chatbot.zip
+Choose the provided file: BookstoreBot.zip
 
 Confirm to overwrite current agent if prompted.
 
