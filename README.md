@@ -1,4 +1,5 @@
 Steps to Import the Chatbot Agent
+
 ✅ 1. Go to the Dialogflow Console
 
 URL: https://dialogflow.cloud.google.com
@@ -11,7 +12,7 @@ Click the drop-down at the top left and select “Create new agent”.
 
 Fill in:
 
-Agent name: BookstoreChatbot
+Agent name: BookstoreBot
 
 Default language: English
 
